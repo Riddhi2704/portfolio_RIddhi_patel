@@ -3,7 +3,6 @@ import { Col, Row } from "react-bootstrap";
 import macOs from "../../Assets/TechIcons/Apple MacOSX.svg";
 import chrome from "../../Assets/TechIcons/Google Chrome.svg";
 import vsCode from "../../Assets/TechIcons/vscode.svg";
-import intelliJ from "../../Assets/TechIcons/intellij-idea.svg";
 import Copliet from "../../Assets/Projects/copilet.png";
 import GoogleAntigravity from "../../Assets/Projects/google-antigravity-logo-icon-png.jpg"
 

@@ -2,18 +2,13 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-// import leaf from "../../Assets/Projects/leaf.png";
-// import emotion from "../../Assets/Projects/emotion.png";
 import Customer from "../../Assets/Projects/Customer.png"
 import Hospital from "../../Assets/Projects/Hospital.png";
-import editor from "../../Assets/Projects/codeEditor.png";
-// import chatify from "../../Assets/Projects/chatify.png";
 import MedicalCamps from "../../Assets/Projects/Medical_camps.png"
 import Designer from "../../Assets/Projects/Designer.png";
-// import suicide from "../../Assets/Projects/suicide.png";
 import Inventory from "../../Assets/Projects/inventory_system.png";
 import Salesforecasting from "../../Assets/Projects/salesforecasting.png"
-// import bitsOfCode from "../../Assets/Projects/blog.png";
+
 
 function Projects() {
   return (
